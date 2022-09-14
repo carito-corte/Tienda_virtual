@@ -1,0 +1,2 @@
+INSERT INTO sucursal (id_sucursal, ciudad, direccion,id_administrador) values(1,"Bogotá","Ac. 32 #6b-43", 1);
+INSERT INTO sucursal (id_sucursal, ciudad, direccion,id_administrador) values(2,"Bucaramanga", "5. Cra 29 # 44 - 14 ",  2); 

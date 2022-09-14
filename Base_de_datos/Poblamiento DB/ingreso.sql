@@ -1,0 +1,2 @@
+INSERT INTO ingreso (id_venta, cantidad_producto, valor_venta, id_sucursal, id_producto) values(1, 3, 2100, 1, 1);
+INSERT INTO ingreso (id_venta, cantidad_producto, valor_venta, id_sucursal, id_producto) values(2, 5, 11000, 2, 2);
